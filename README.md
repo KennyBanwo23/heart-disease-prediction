@@ -20,5 +20,13 @@ To predict whether patients have heart disease or no using their medical attribu
 12. Ca: Number of major vessels
 13. Thal: Defect type
 
+## MODEL EVALUATION
+Four model evaluation techniques were implemented in which accuracy was chosen as the best measure. The techniques were:
+1. Accuracy
+2. Precision
+3. Recall
+4. F1 Score
+
 ## PROCESS AND OUTCOME
+Four machine learning models - Logistic Regression, Random Forest, KNearest Neighbors (KNN) and Naive Bayes were used and KNN had the highest accuracy of 87%.
 
