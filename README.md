@@ -1,11 +1,11 @@
-# HEART DISEASE PREDICTION USING MACHINE LEARNING
+## HEART DISEASE PREDICTION USING MACHINE LEARNING
 For the prediction of Heart Disease, the dataset used was obtained from Kaggle. 
 It consists of 13 attributes of 1025 patients.
 
 # AIM OF THE PROJECT
 To predict whether patients have heart disease or no using their medical attributes and to determine the model with the highest accuracy.
 
-# DATA DICTIONARY
+## DATA DICTIONARY
 1. Age: Patients age in years
 2. Sex: Sex of subject
 3. CP: Chest pain type
