@@ -19,3 +19,6 @@ To predict whether patients have heart disease or no using their medical attribu
 11. Slope: Slope of Peak Exercise ST segment
 12. Ca: Number of major vessels
 13. Thal: Defect type
+
+## PROCESS AND OUTCOME
+
