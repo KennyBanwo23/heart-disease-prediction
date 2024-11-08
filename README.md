@@ -3,7 +3,7 @@ For the prediction of Heart Disease, the dataset used was obtained from Kaggle.
 It consists of 13 attributes of 1025 patients.
 
 ## AIM OF THE PROJECT
-To predict whether patients have heart disease or no using their medical attributes and to determine the model with the highest accuracy.
+To predict whether patients have heart disease or not using their medical attributes and to determine the model with the highest accuracy.
 
 ## DATA DICTIONARY
 1. Age: Patients age in years
